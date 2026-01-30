@@ -7,12 +7,15 @@
 # 💫 About Me:
 🎓 B.Tech in Computer Science & Engineering (Data Science) (2023–2027)<br><br>📊 Focused on Data Analysis, Data Visualization, Machine Learning, Deep Learning & Generative AI<br>📈 Hands-on with Power BI and Business Intelligence, building data-driven solutions that matter<br><br>💡 Passionate about solving real-world problems using data and technology<br>🥋 Martial artist & fitness enthusiast — discipline, consistency, and resilience shape both my training and my code<br>🧠 Curious by nature, driven by impact, and always pushing myself to learn, build, and improve<br><br>🚀 Turning data into insight, ideas into solutions, and challenges into growth.
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60"/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/g_i_k_y_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyana-ranjan-mohanty-082856397/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanarmohanty20@gmail.com)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 # 💻 Tech Stack:
 
@@ -41,9 +44,12 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=6"/>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gyana10&icon=6&color=0)](https://visitcount.itsvg.in)
