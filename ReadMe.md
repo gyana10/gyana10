@@ -6,8 +6,7 @@
 
 # 💫 About Me:
 🎓 B.Tech in Computer Science & Engineering (Data Science) (2023–2027)<br><br>📊 Focused on Data Analysis, Data Visualization, Machine Learning, Deep Learning & Generative AI<br>📈 Hands-on with Power BI and Business Intelligence, building data-driven solutions that matter<br><br>💡 Passionate about solving real-world problems using data and technology<br>🥋 Martial artist & fitness enthusiast — discipline, consistency, and resilience shape both my training and my code<br>🧠 Curious by nature, driven by impact, and always pushing myself to learn, build, and improve<br><br>🚀 Turning data into insight, ideas into solutions, and challenges into growth.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0072FF,100:FACC15&height=4"/>
 
 
 ## 🌐 Socials:
@@ -15,7 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyana-ranjan-mohanty-082856397/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanarmohanty20@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0072FF,100:FACC15&height=4"/>
+
 
 # 💻 Tech Stack:
 
