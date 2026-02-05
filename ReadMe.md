@@ -9,6 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0072FF,100:FACC15&height=4"/>
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/g_i_k_y_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyana-ranjan-mohanty-082856397/)
