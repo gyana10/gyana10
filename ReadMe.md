@@ -3,7 +3,6 @@
 </h1>
 
 
-
 # 💫 About Me:
 🎓 B.Tech in Computer Science & Engineering (Data Science) (2023–2027)<br><br>📊 Focused on Data Analysis, Data Visualization, Machine Learning, Deep Learning & Generative AI<br>📈 Hands-on with Power BI and Business Intelligence, building data-driven solutions that matter<br><br>💡 Passionate about solving real-world problems using data and technology<br>🥋 Martial artist & fitness enthusiast — discipline, consistency, and resilience shape both my training and my code<br>🧠 Curious by nature, driven by impact, and always pushing myself to learn, build, and improve<br><br>🚀 Turning data into insight, ideas into solutions, and challenges into growth.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0072FF,100:FACC15&height=4"/>
