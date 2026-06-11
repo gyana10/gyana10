@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+I'm+Gyana+Ranjan+Mohanty;Computer+Science+Engineer+(Data+Science);Data Science+%7CAI+%7C+ML+%7C+Gen+AI+Enthusiast;Turning+Data+Into+Impactful+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+I'm+Gyana+Ranjan+Mohanty;Computer+Science+Engineer+(Data+Science);AI+%7C+ML+%7C+Gen+AI+Enthusiast;Turning+Data+Into+Impactful+Solutions" />
 </h1>
 
 
