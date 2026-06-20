@@ -32,7 +32,7 @@ class GyanaMohanty:
             "Generative AI Developer"
         ]
 
-        self.current_role = "Research Intern @ NIT Rourkela"
+        self.current_role = "Final Year Student"
 
     def mission(self):
         return "Building intelligent systems that solve real-world problems at scale."
@@ -48,7 +48,7 @@ class GyanaMohanty:
 
 🏆 National Hackathon **3rd Prize Winner** (200+ Teams)
 
-👨‍🏫 AIML Club Lead — Mentored **100+ Students**
+👨‍🏫 AIML Club Lead — Mentored **300+ Students**
 
 💻 Solved **500+ DSA Problems**
 
@@ -64,8 +64,7 @@ class GyanaMohanty:
 |------------|------|
 | 🥉 National Hackathon 3rd Prize (200+ Teams) | 2025 |
 | 📄 Patent Filed – AI Smart Agriculture System | 2025 |
-| 🔬 97% Accurate Soil Fertility Prediction Models | 2026 |
-| 👨‍🏫 AIML Club Lead | 2024–Present |
+| 👨‍🏫 AIML Club Lead | 2026–Present |
 | 💻 500+ DSA Problems Solved | Ongoing |
 
 ---
@@ -141,7 +140,6 @@ class GyanaMohanty:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -152,7 +150,6 @@ class GyanaMohanty:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-green?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-purple?style=for-the-badge)
 ![Model Deployment](https://img.shields.io/badge/Model%20Deployment-darkgreen?style=for-the-badge)
 
@@ -162,6 +159,7 @@ class GyanaMohanty:
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-green?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0053A0?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-8B5CF6?style=for-the-badge)
@@ -172,7 +170,6 @@ class GyanaMohanty:
 ## ⚡ Frameworks & Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
