@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0EA5E9,100:2563EB&text=Gyana%20Ranjan%20Mohanty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist%20|%20GenAI%20Developer&descAlignY=58&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=NIT+Rourkela+Research+Intern;Patent+Contributor;National+Hackathon+3rd+Prize+Winner;Building+Production-Ready+AI+Systems;RAG+|+LangChain+|+FastAPI+|+TensorFlow+|+AWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=NIT+Rourkela+Research+Intern;Patent+Contributor;National+Hackathon+Winner;Building+Production-Ready+AI+Systems;RAG+|+LangChain+|+FastAPI+|+TensorFlow+|+AWS" />
 
 <br>
 
