@@ -1,39 +1,92 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,100:2563EB&text=Gyana%20Ranjan%20Mohanty&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist%20|%20GenAI%20Developer&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=NIT+Rourkela+Research+Intern;Patent+Contributor;National+Hackathon+3rd+Prize+Winner;Building+Production-Ready+AI+Systems;AI+%7C+ML+%7C+GenAI+%7C+MLOps"/>
+
+### Turning data into intelligent solutions through AI, Machine Learning & Generative AI.
+
+<br>
+
+<a href="https://www.linkedin.com/in/gyana-ranjan-mohanty-082856397/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gyana10">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://topmate.io/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Topmate-5B4DFF?style=for-the-badge"/>
+</a>
+
+<a href="mailto:gyanarmohanty@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 # 💻 Tech Stack
 
+<div align="center">
+
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=python,java,r,mysql"/>
 
 ### 🤖 AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,opencv"/>
 
 ### 🧠 Generative AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0053A0?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### ⚙️ Backend & MLOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0F766E?style=for-the-badge)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface"/>
 
-### 📊 Data Engineering & Analytics
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0053A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend • MLOps
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker"/>
+
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-0F766E?style=for-the-badge"/>
+</p>
+
+### 📊 Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=aws,git,github"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code with curiosity. Build with purpose. Learn without limits."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0EA5E9&section=footer"/>
+
+</div>
